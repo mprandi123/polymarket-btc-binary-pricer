@@ -5,6 +5,7 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+test.ipynb
 
 # macOS
 .DS_Store
